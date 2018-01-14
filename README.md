@@ -1,0 +1,2 @@
+- [ ] console log Performance marks via performance observer
+- [ ] Configure auto measures and show in page title   
